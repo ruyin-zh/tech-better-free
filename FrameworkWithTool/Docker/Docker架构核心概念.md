@@ -18,7 +18,7 @@
 
 定义:仓库是用于存储和分发Docker镜像的介质;镜像仓库存在公共镜像仓库集私有镜像仓库;
 
-Docker官方的公共镜像仓库为[DockerHub](https://hub.docker.com/),在DockerHub上不仅欧官方制作的镜像,还有很多组织或者个人开发的镜像供免费使用;
+Docker官方的公共镜像仓库为[DockerHub](https://hub.docker.com/),在DockerHub上不仅存在官方制作的镜像,还有很多组织或者个人开发的镜像供免费使用;
 
 
 
